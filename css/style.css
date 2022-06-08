@@ -1,0 +1,26 @@
+/*RESETE*/
+*,*{
+    margin: 0px;
+    padding: 0px;
+    color: #fff;
+    box-sizing:border-box;   
+}
+body{
+    background: black;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+.sociais ul {
+    display: flex;
+}
+.sociais ul a {
+    display: block;
+    padding: 10px;
+}
+.sociais ul li img {
+    max-width: 80px;
+}

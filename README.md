@@ -8,3 +8,4 @@ Julio Cesar Alves Barbosa Santos RA:3022106403
 Tiago dos Santos Cabral Filho RA:3022103442
 Arthur Barreto Siqueira RA:3022103912
 Vinicius Eduardo dos Santos RA:3022100227
+Wesley Varjão RA:3021201425
